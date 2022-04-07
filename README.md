@@ -1,6 +1,8 @@
 # BERT-base-Turkish-QA
 
-A custom Turkish question answering system made by fine-tuning BERTurk.
+A custom Turkish question answering system made by fine-tuning BERTurk, which is a BERT base model transformer.
+
+This project is made during our joint internship at SESTEK Speech Enabled Software Technologies with [@AybarsManav](https://github.com/AybarsManav).
 
 
 
