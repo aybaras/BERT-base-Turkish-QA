@@ -2,7 +2,15 @@
 
 A custom Turkish question answering system made by fine-tuning BERTurk, which is a BERT base model transformer.
 
-This project is made during our joint internship at SESTEK Speech Enabled Software Technologies with [@AybarsManav](https://github.com/AybarsManav).
+This project is made during our joint internship at SESTEK Speech Enabled Software Technologies.
+
+
+
+## Models
+
+[Turkish XLM model](https://huggingface.co/Aybars/XLM_Turkish)
+
+[Model trained using the whole dataset](https://huggingface.co/Aybars/ModelOnWhole)
 
 
 
