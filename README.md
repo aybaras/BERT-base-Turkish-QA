@@ -1,6 +1,6 @@
 # BERT-base-Turkish-QA
 
-A custom Turkish question answering system made by fine-tuning BERTurk, which is a BERT base model transformer. We have trained and evaluated the exact match and F1 scores using different Turkish data sets, then compared the evaluation results. In our final model, we have concatenated all of the Turkish data sets into one data set and trained our model using the whole training data set. You can check out our final model [here](https://huggingface.co/Aybars/ModelOnWhole).
+A custom Turkish question answering system made by fine-tuning [BERTurk](https://huggingface.co/dbmdz/bert-base-turkish-128k-cased), which is a BERT base model transformer. We have trained and evaluated the exact match and F1 scores using different Turkish data sets, then compared the evaluation results. In our final model, we have concatenated all of the Turkish data sets into one data set and trained our model using the whole training data set. You can check out our final model [here](https://huggingface.co/Aybars/ModelOnWhole).
 
 This project is made during our joint internship at SESTEK Speech Enabled Software Technologies.
 
@@ -24,7 +24,7 @@ This project is made during our joint internship at SESTEK Speech Enabled Softwa
 
 [Turkish XLM-R Base Model](https://huggingface.co/Aybars/XLM_Turkish)
 
-[Savasy's Turkish BERT NLP Pipeline Model](https://github.com/savasy/Turkish-Bert-NLP-Pipeline)
+[Savasy's Turkish BERT NLP Pipeline](https://github.com/savasy/Turkish-Bert-NLP-Pipeline)
 
 
 
