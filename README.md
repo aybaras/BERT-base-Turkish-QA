@@ -22,9 +22,7 @@ This project is made during our joint internship at SESTEK Speech Enabled Softwa
 
 [BERTurk](https://huggingface.co/dbmdz/bert-base-turkish-128k-cased)
 
-[Turkish XLM-R Base Model](https://huggingface.co/Aybars/XLM_Turkish)
-
-[Savasy's Turkish BERT NLP Pipeline](https://github.com/savasy/Turkish-Bert-NLP-Pipeline)
+[Turkish XLM-R Based Model](https://huggingface.co/Aybars/XLM_Turkish)
 
 
 
